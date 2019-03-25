@@ -1,0 +1,22 @@
+Obs,Variable,Group,Label,Points
+1,MoSold,-2,Neutral_Score,40
+2,MoSold,1,MoSold < 796,30
+3,MoSold,2,"796 <= MoSold < 1079, _MISSING_",38
+4,MoSold,3,1079 <= MoSold < 1567,41
+5,MoSold,4,1567 <= MoSold < 1830,43
+6,MoSold,5,1830 <= MoSold,45
+8,GrLivArea,1,"GrLivArea < 1373, _MISSING_",147
+9,GrLivArea,2,1373 <= GrLivArea < 1540,65
+10,GrLivArea,3,1540 <= GrLivArea < 1944,40
+11,GrLivArea,4,1944 <= GrLivArea < 2464,3
+12,GrLivArea,5,2464 <= GrLivArea,-29
+14,LotArea,1,LotArea < 6000,117
+15,LotArea,2,"6000 <= LotArea < 10512, _MISSING_",71
+16,LotArea,3,10512 <= LotArea < 12198,49
+17,LotArea,4,12198 <= LotArea < 16900,18
+18,LotArea,5,16900 <= LotArea,-40
+20,WoodDeckSF,1,"WoodDeckSF < 100, _MISSING_",41
+21,WoodDeckSF,2,100 <= WoodDeckSF < 130,43
+22,WoodDeckSF,3,130 <= WoodDeckSF < 256,41
+23,WoodDeckSF,4,256 <= WoodDeckSF < 319,37
+24,WoodDeckSF,5,319 <= WoodDeckSF,35
